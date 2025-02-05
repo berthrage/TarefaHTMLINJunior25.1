@@ -3,5 +3,4 @@ Essa é nossa primeira página web e, por isso, utilizamos apenas HTML e estilos
 
 
 ## Desenvolvido por
-[Jade Mendes](https://github.com/jade-mendes) 
-[Leandro Bertholdo](https://github.com/berthrage) 
+[Jade Mendes](https://github.com/jade-mendes) e [Leandro Bertholdo](https://github.com/berthrage) 
